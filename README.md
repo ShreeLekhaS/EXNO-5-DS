@@ -128,15 +128,14 @@ plt.show()
 ![image](https://github.com/user-attachments/assets/5ca767e1-6642-480a-b500-08fb9f3ab180)
 
 ### 8. PIE CHART
-
-'''
+```
 activities = ['eat', 'sleep', 'work', 'play']
 slices = [3, 7, 8, 6]
 colors = ['r', 'y', 'g', 'b']
 plt.pie(slices, labels=activities, colors=colors, startangle=90, shadow=True, explode=(0, 0.1, 0, 0), autopct='%1.1f%%')
 plt.title("Pie Chart of Daily Activities")
 plt.show()
-'''
+```
 
 ![image](https://github.com/user-attachments/assets/28e44df7-b267-492f-a72c-c2945e75d8f3)
 
