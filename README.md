@@ -137,6 +137,7 @@ plt.pie(slices, labels=activities, colors=colors, startangle=90, shadow=True, ex
 plt.title("Pie Chart of Daily Activities")
 plt.show()
 '''
+
 ![image](https://github.com/user-attachments/assets/28e44df7-b267-492f-a72c-c2945e75d8f3)
 
 # Result:
